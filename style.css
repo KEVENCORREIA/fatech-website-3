@@ -87,3 +87,23 @@ padding-top: 22px;
     font-size: 100px;
     font-weight: 900;
 }
+.sobre .img, .sobre .titulo .sobre p{
+
+    float: left;
+
+}
+.sobre p{
+
+    width: 80%;
+
+}
+.sobre .img{
+
+width: 20%;
+
+}
+.sobre .img img{
+
+width: 100%;
+
+}
